@@ -73,6 +73,6 @@ Voici quelques captures d’écran illustrant le rendu du jeu :
 Lance simplement le fichier :
 Ouvre index.html dans ton navigateur et Régale-toi !  
    
-3. **BONUS :: Teste Directement !**... :
-[**ICI !**](https://Lord-Einstein.github.io/my_tic_tac_town/)
+3. **BONUS :: Teste Directement !**... :<br>
+[**ICI.**](https://lord-einstein.github.io/my_tic_tac_town//)
 
